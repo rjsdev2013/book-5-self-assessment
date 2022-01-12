@@ -1,1 +1,80 @@
-{}
+{
+  "topics": [
+    {
+      "id": 1,
+      "topic": "Business"
+    },
+    {
+      "Id": 2,
+      "topic": "Friendly"
+    },
+    {
+      "Id": 3,
+      "topic": "Family"
+    },
+    {
+      "Id": 4,
+      "topic": "Congratulations"
+    },
+    {
+      "Id": 5,
+      "topic": "Condolences"
+    }
+  ],
+  "Authors": [
+    {
+      "Id": 1,
+      "name": "Mark Twain",
+      "email": "mark@mark.com"
+    },
+    {
+      "Id": 2,
+      "name": "Maya Angelou",
+      "email": "maya@maya.com"
+    },
+    {
+      "Id": 3,
+      "name": "Grace Hopper",
+      "email": "grace@grace.com"
+    }
+  ],
+  "Letters": [
+    {
+      "letterContent": "This should be my first successful letter!",
+      "letterAuthor": "Mark Twain",
+      "letterTopic": "Congratulations",
+      "letterRecipient": "Maya Angelou",
+      "id": 1
+    },
+    {
+      "letterContent": "This is the second letter and the topic should look cool.",
+      "letterAuthor": "Grace Hopper",
+      "letterTopic": "Business",
+      "letterRecipient": "Mark Twain",
+      "id": 2
+    },
+    {
+      "letterContent": "test: topics should be biz and friendly",
+      "letterAuthor": "Mark Twain",
+      "letterTopic": "Business",
+      "letterRecipient": "Maya Angelou",
+      "id": 3
+    },
+    {
+      "letterContent": "new letter with timestamp",
+      "letterAuthor": "Mark Twain",
+      "letterTopic": "Business",
+      "letterRecipient": "Maya Angelou",
+      "timestamp": 1641667773763,
+      "id": 4
+    },
+    {
+      "letterContent": "test test test ",
+      "letterAuthor": "Mark Twain",
+      "letterTopic": "Business",
+      "letterRecipient": "Maya Angelou",
+      "timestamp": 1641669902795,
+      "id": 5
+    }
+  ]
+}

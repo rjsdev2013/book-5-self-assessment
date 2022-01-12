@@ -3,8 +3,9 @@
     flex-direction: column
 }
 
-.input{
-width: 780px;
+.textarea{
+width: 750px;
+height: 100px;
 }
 
 ul {
